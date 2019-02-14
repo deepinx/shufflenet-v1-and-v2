@@ -1,5 +1,7 @@
 # The MXNet Implementation of ShuffleNet v1 and v2
 
+The code is adapted based on an intial fork from the [MXShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet) repository.
+
 ## Environment
 
 -   Python 2.7 
