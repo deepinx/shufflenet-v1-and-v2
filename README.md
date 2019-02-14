@@ -8,7 +8,7 @@
 
 ## Usage
 
-to test on mnist
+To test ShuffleNet v1 and v2 on mnist
 ```
 python test_mnist.py
 ```
