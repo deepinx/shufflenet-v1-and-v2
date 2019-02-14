@@ -2,6 +2,8 @@
 
 The code is adapted based on an intial fork from the [MXShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet) repository.
 
+This repository also includes MobileFaceNet, which is an efficient mobile CNN for face verification, introduced in [arxiv](https://arxiv.org/abs/1804.07573).
+
 ## Environment
 
 -   Python 2.7 
@@ -10,7 +12,7 @@ The code is adapted based on an intial fork from the [MXShuffleNet](https://gith
 
 ## Usage
 
-To test ShuffleNet v1 and v2 on mnist
+To test ShuffleNet v1, v2 and MobileFaceNet on mnist
 ```
 python test_mnist.py
 ```
@@ -33,6 +35,12 @@ MIT LICENSE
 @article{Ma2018ShuffleNet,
   title={ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design},
   author={Ma, Ningning and Zhang, Xiangyu and Zheng, Hai Tao and Sun, Jian},
+  year={2018},
+}
+
+@article{Chen2018MobileFaceNets,
+  title={MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices},
+  author={Chen, Sheng and Liu, Yang and Gao, Xiang and Han, Zhen},
   year={2018},
 }
 ```
