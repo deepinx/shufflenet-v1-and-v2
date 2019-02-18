@@ -1,8 +1,6 @@
 # The MXNet Implementation of ShuffleNet v1 and v2
 
-The code is adapted based on an intial fork from the [MXShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet) repository.
-
-This repository also includes MobileFaceNet, which is an efficient mobile CNN for face verification, introduced in [arxiv](https://arxiv.org/abs/1804.07573).
+This repository includes codes for ShuffleNet v1 and v2. In addition, MobileFaceNet, which is an efficient mobile CNN for face verification introduced in [arxiv](https://arxiv.org/abs/1804.07573) is also included in this repository.
 
 ## Environment
 
@@ -44,3 +42,7 @@ MIT LICENSE
   year={2018},
 }
 ```
+
+## Acknowledgment
+
+The code is adapted based on an intial fork from the [MXShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet) repository.
