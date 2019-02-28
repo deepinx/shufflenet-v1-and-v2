@@ -16,6 +16,10 @@ To test ShuffleNet v1, v2 and MobileFaceNet on mnist
 ```
 python test_mnist.py
 ```
+Plot network graph of ShuffleNet v1, v2 and MobileFaceNet
+```
+python plot_netgraph.py
+```
 
 
 ## License
